@@ -45,7 +45,7 @@ The program generates product_missing_dataset.csv, which contains the start and 
 | product_0 | store_1 | 2024-07-01 | 2024-07-10 |
 
 ### Visualizations
-You can view and interact with the visualizations created in the notebook here: [NB Rendering]([https://example.com](https://nbviewer.org/github/manisha-solipuram/stockout-detection/blob/main/stockout_detection_algorithm.ipynb)
+You can view and interact with the visualizations created in the notebook here: [Notebook Rendering](https://nbviewer.org/github/manisha-solipuram/stockout-detection/blob/main/stockout_detection_algorithm.ipynb)
 
 ### Use Cases  
 - **Postmortem Analysis**: Understand past inventory shortages.  
