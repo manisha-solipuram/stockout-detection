@@ -7,7 +7,7 @@ An **unsupervised** algorithm that analyzes historical sales data to identify pa
 - ⚡ **Future-Proof Logic**: The same rules can be adapted to build real-time alerts for stockouts as they happen.  
 - 📊 **Input Agnostic**: Works with just sales/units data (`product_id`, `store_id`, `date`, `gross_sales`, `gross_units`).
  
-<img width="816" alt="Screenshot 2025-04-03 at 8 21 09 AM" src="https://github.com/user-attachments/assets/98cd3ec8-620a-4e59-902e-cd01a4fdbc0f" />
+<img width="1465" alt="Screenshot 2025-04-07 at 1 35 39 PM" src="https://github.com/user-attachments/assets/cbf84f27-3425-493c-bb86-8e8b2349d3ef" />
 
 ### How The Algorithm Works  
 The algorithm marks time windows with abnormal sales dips as potential low stock or stockout periods. 
